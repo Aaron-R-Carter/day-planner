@@ -16,27 +16,7 @@
   padding: 0px;
 }
 .saveBtn {
-  background-color: firebrick;
-  border: solid;
-  border-radius: 0px 12px 12px 0px;
   display: flex;
-  height: 100%;
-  width: 100%;
-}
-.task_bg_current {
-  background-color: goldenrod;
-  height: 100%;
-  width: 100%;
-}
-.task_bg_future {
-  background-color: lightgreen;
-  height: 100%;
-  width: 100%;
-}
-.task_bg_past {
-  background-color: gray;
-  height: 100%;
-  width: 100%;
 }
 .time {
   border-top-style: solid;
@@ -49,14 +29,12 @@
 .txtCenter {
   text-align: center;
 } 
-
 .col-2{
   border: 10px;
-
 }
-
 .col-8{
-
   border: 10px;
-  
+}
+body{
+  margin:50px;
 }
